@@ -10,6 +10,6 @@ A modern and responsive website for booking rental cars, built with React and Ta
 - 💻 Responsive design for all screen sizes
 - ⚡ Smooth user experience using React components
 
-## Viste Website Here:
+## 🌐 Visit Website Here:
 
-https://car-rental-live.vercel.app/
+👉 https://car-rental-live.vercel.app/
