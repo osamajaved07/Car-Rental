@@ -2,19 +2,19 @@ import React from "react";
 
 const testimonialData = [
   {
-    name: "Dilshad",
+    name: "Mukarram",
     image: "",
     description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
     aosDelay: "0",
   },
   {
-    name: "Satya",
+    name: "Daniyal",
     image: "",
     description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
     aosDelay: "300",
   },
   {
-    name: "Sabir",
+    name: "Kalam",
     image: "",
     description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
     aosDelay: "1000",
